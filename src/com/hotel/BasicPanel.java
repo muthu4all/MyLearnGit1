@@ -26,8 +26,7 @@ import javax.swing.SwingConstants;
  * @version 1.00 2015/11/01
  * This is third change
  * This is fourth change
- * This is fifth chaage
- */
+  */
 
 /**
  * The basic panel with the common factors between all other panels.
